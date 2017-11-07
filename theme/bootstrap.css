@@ -362,7 +362,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; */
   font-weight: bold;
   line-height: 1.1;
   color: inherit;
@@ -5781,13 +5781,12 @@ button.close {
   }
 }
 .navbar {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .navbar-nav > li > a {
-  padding: 8px 12px;
+  /* padding: 8px 12px; */
   margin: 12px 6px;
   border: 1px solid transparent;
-  border-radius: 4px;
+  /* border-radius: 4px; */
 }
 .navbar-nav > li > a:hover {
   border: 1px solid #ddd;
@@ -5806,13 +5805,13 @@ button.close {
   margin-top: 6px;
 }
 .btn {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; */
 }
 legend {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; */
 }
 .input-group-addon {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; */
 }
 .nav .open > a,
 .nav .open > a:hover,
@@ -5820,14 +5819,13 @@ legend {
   border: 1px solid #ddd;
 }
 .pagination {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .pagination-lg > li > a,
 .pagination-lg > li > span {
   padding: 14px 24px;
 }
 .pager {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /* font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif; */
 }
 .pager a {
   color: #333333;
@@ -5855,7 +5853,6 @@ legend {
   opacity: 1;
 }
 .label {
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 .label-default {
@@ -5865,7 +5862,6 @@ legend {
 .badge {
   padding: 1px 7px 5px;
   vertical-align: 2px;
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 .panel {
@@ -5875,7 +5871,6 @@ legend {
 .panel-default .panel-heading,
 .panel-default .panel-footer {
   background-color: #fff;
-  font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
 }
 .panel-primary .panel-heading,
