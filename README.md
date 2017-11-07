@@ -1,2 +1,0 @@
-# duckducktech
-http://duckducktech.com/
